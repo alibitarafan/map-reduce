@@ -1,6 +1,6 @@
 ### Use case
 
-Count movie ratings from input data file
+Understanding MapReduce implementation
 
 ### Requirements
 
@@ -19,6 +19,8 @@ then...
 
 then...
 
-       python mr-job.py {path-to-data-file/u.data}
+       python {mr-job}.py {path-to-data-file/u.data}
 
-\*Data set related to this example can be downloaded from https://grouplens.org/datasets/movielens/100k/
+Data set related to this example:
+
+> https://grouplens.org/datasets/movielens/100k/
